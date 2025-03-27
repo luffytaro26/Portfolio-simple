@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+body{
+        background-image: url(portfolio.jpg);
+        background-repeat: no-repeat;
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+}
+.container{
+    padding: 50px;
+}
+.Name-one{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
+.Name-one__contact{
+    color: aliceblue;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+.Name-one__name{
+    font-size: 30px;
+
+}
+.Name-one__role{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.About
+/* .About,.project,.media,.About__one,.About__two,.project__one,.project__two,.media__one,.media__two,.media__three{
+margin-top: 20px;} */
+.About,.About__one,.About__two{
+ margin-top:20px;
+ margin-bottom: 20px;
+ color:#FFFFFF;
+}
+.intrest,.intrest__one,.intrest__two{
+    margin-top:20px;
+
+}
+.project,.project__one,.project__two{
+    margin-top: 20px;
+}
+.project__three{
+    margin-top: 10px;
+   
+}
+.media a{
+    margin-top: 50px;
+    color: aqua;
+    
+}
+.intrest li{
+    list-style: none;
+}
+.intrest{
+    
+    background-color: #4642FD;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 180px;
+    border-radius:20px;
+    vertical-align: top;
+}
+.project{
+    background-color: #fe7517;
+    color: black;
+    padding: 20px;
+    display:inline-block;
+    height: 180px;
+    border-radius:20px;
+    vertical-align: top;
+}
+/* Contact page*/ 
+.contact{
+    margin-top: 20px;
+    vertical-align: top;
+    color: #4642FD;
+}
+
+/* .Name,.Number,.MSG{
+    margin-top: 10px;
+}  */
+.Contact__name
+{
+margin-top: 10px;
+margin-left: 20px;
+}
+.contact__Number{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.contact__txt{
+    margin-top: 10px;
+}
+.Submit{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.media{
+    margin-top: 200px;
+    margin-left: 850px;
+}
+
+/* .Name{
+    padding: top 10px; ;
+    color: royalblue;
+} */
+ .Contact__name,.contact__Number,.contact__txt{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 3px;
+    border-right: solid black 3px;
+ }
+ /* .bg{
+    color:;
+ } */
+  .Submit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #fe7517;
+    color:black;
+    border: none;
+    border-bottom: solid black 3px;
+    border-right:solid black 3px ;
+    margin-left: 120px;
+  }
+  .media{
+    color: whitesmoke;
+    background-color: black;
+    display: inline-block;
+  }
+  .KG{
+    margin-left: 100px;
+    
+  }
